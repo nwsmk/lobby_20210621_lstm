@@ -1,0 +1,17 @@
+Epoch 00061: early stopping
+iter 0: model training accuracy = 100.00%
+rmse = 3.49, median = 1.83, 80th% = 4.58
+Epoch 00080: early stopping
+iter 1: model training accuracy = 100.00%
+rmse = 4.13, median = 3.33, 80th% = 5.76
+Epoch 00086: early stopping
+iter 2: model training accuracy = 100.00%
+rmse = 5.39, median = 4.58, 80th% = 7.42
+Epoch 00074: early stopping
+iter 3: model training accuracy = 99.91%
+rmse = 4.15, median = 2.42, 80th% = 5.64
+Epoch 00055: early stopping
+iter 4: model training accuracy = 100.00%
+rmse = 3.86, median = 2.29, 80th% = 5.05
+
+Process finished with exit code 0
